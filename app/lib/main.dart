@@ -71,7 +71,7 @@ class _MainState extends State<Main> {
                       return Column(
                         children: [
                           for (var index = 0; index < items.length; index++)
-                            ListTile(title: Text(items[0].title)),
+                            ListTile(title: Text(items[index].title)),
                         ],
                       );
                     },

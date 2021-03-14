@@ -12,8 +12,9 @@
 `npm i`  
 `npm run dev`
 
-### Test server
+### Test server and gql_client 
 
+Run multiple times:
 `dart gql_client/bin/test_client.dart`
 
 ### Run the Flutter app
