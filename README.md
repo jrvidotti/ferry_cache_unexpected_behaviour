@@ -12,6 +12,10 @@
 `npm i`  
 `npm run dev`
 
+### Test server
+
+`dart gql_client/bin/test_client.dart`
+
 ### Run the Flutter app
 
 Put your `ip address` in the `uri` (`main.dart`)
